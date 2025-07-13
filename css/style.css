@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+
+li{
+    list-style: none;
+    padding-bottom: 20px;
+}
